@@ -10,7 +10,7 @@ except ImportError:
 config = ConfigParser()
 
 name_base = "block.db"
-conn = sqlite3.connect(name_base) # Подключение к БД
+conn = sqlite3.connect(name_base, check_same_thread = False) # Подключение к БД
 cursor = conn.cursor()
 
 settings = {
@@ -156,3 +156,19 @@ def TransformToDict(block):
 				  'message': block[8],
 				  'prev_hash': block[9]}
 	return prevblock 
+
+def IsAccountCreated(login, password):
+	try:
+		account = cursor.execute("""
+			SELECT * FROM accounts WHERE login = ?
+			""", (str(login),)).fetchone()
+	except sqlite3.DatabaseError as err:
+		print('Error: ', err)
+	else:			
+		if account is None:
+			return 0
+		else:
+			if str(account[2]) != str(password):
+				return 1
+			else:
+				return 2
