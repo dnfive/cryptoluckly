@@ -1,0 +1,594 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"prev_",
+				"prev_b"
+			],
+			[
+				"s",
+				"str"
+			],
+			[
+				"pre",
+				"prev_binfo"
+			],
+			[
+				"get",
+				"get_hash"
+			],
+			[
+				"m",
+				"my_address"
+			],
+			[
+				"adr",
+				"adr_to"
+			],
+			[
+				"ad",
+				"adr_to"
+			],
+			[
+				"b",
+				"bInfo"
+			],
+			[
+				"ar",
+				"adr_from"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"prev_b",
+				"prev_binfo"
+			],
+			[
+				"prev",
+				"prev_hash"
+			],
+			[
+				"se",
+				"settings"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"settings",
+				"settings_file"
+			],
+			[
+				"orm_",
+				"orm_update"
+			],
+			[
+				"DialogS",
+				"DialogShowCommands"
+			],
+			[
+				"in",
+				"inputtext"
+			],
+			[
+				"Sh",
+				"Dialog_Show"
+			],
+			[
+				"COLO",
+				"COLOR_PINK2"
+			],
+			[
+				"Play",
+				"PlayerInfo"
+			],
+			[
+				"COLOR_GRE",
+				"COLOR_GREY"
+			],
+			[
+				"is",
+				"is_logged"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"COLOR_Se",
+				"COLOR_SYSTEM"
+			],
+			[
+				"g",
+				"GetPVarInt"
+			],
+			[
+				"p",
+				"pPassword"
+			],
+			[
+				"Pla",
+				"PlayerInfo"
+			],
+			[
+				"SetPla",
+				"SetPlayerSkin"
+			],
+			[
+				"plai",
+				"playerid"
+			],
+			[
+				"SetP",
+				"SetPVarInt"
+			],
+			[
+				"Set",
+				"SetPVarInt"
+			],
+			[
+				"Se",
+				"SetPVarInt"
+			],
+			[
+				"Text",
+				"TextDraws"
+			],
+			[
+				"Dialog_",
+				"Dialog_Show"
+			],
+			[
+				"Dial",
+				"DialogRegister"
+			],
+			[
+				"Dialo",
+				"Dialog_Show"
+			],
+			[
+				"pMe",
+				"pMoney"
+			],
+			[
+				"Pl",
+				"PlayerInfo"
+			],
+			[
+				"MAX",
+				"MAX_PLAYER_NAME"
+			],
+			[
+				"playeri",
+				"playerid"
+			],
+			[
+				"ORM",
+				"ORM_ID"
+			],
+			[
+				"DB_",
+				"DB_HOST"
+			],
+			[
+				"DB",
+				"DB_USER"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/main.html",
+			"settings":
+			{
+				"buffer_size": 1236,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/home.html",
+			"settings":
+			{
+				"buffer_size": 2333,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/assets/css/home.css",
+			"settings":
+			{
+				"buffer_size": 103,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/assets/css/main.css",
+			"settings":
+			{
+				"buffer_size": 115,
+				"encoding": "Cyrillic (Windows 1251)",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Totdo",
+				"Set Syntax: Todo"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Tasks",
+				"Tasks: New document"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Development/CryptoLuckly",
+		"/D/Development/CryptoLuckly/templates",
+		"/D/Development/CryptoLuckly/templates/assets",
+		"/D/Development/CryptoLuckly/templates/assets/css"
+	],
+	"file_history":
+	[
+		"/D/Development/old_luckly/templates/home_header.tpl",
+		"/D/Development/LegionBank/main.py",
+		"/D/Development/LegionBank/settings.ini",
+		"/D/Development/LegionBank/settings.py",
+		"/D/Development/LegionBank/templates/main.html",
+		"/D/Development/mycryptobank-master/setting.py",
+		"/D/Development/OpenRP/pawno/include/mapping.inc",
+		"/D/Development/Мой мод с нуля/gamemodes/new.pwn",
+		"/C/Users/User/AppData/Roaming/Sublime Text 3/Packages/User/Pawn.sublime-build",
+		"/D/Development/OpenRP/pawno/include/a_players.inc",
+		"/D/Development/OpenRP/logs/plugins/mysql.log",
+		"/D/Development/OpenRP/logs/errors.log",
+		"/D/Development/OpenRP/server_log.txt",
+		"/D/Development/Elive-RolePlay/gamemodes/new.pwn",
+		"/D/Development/PySAMPgm/python/gamemode.py",
+		"/D/Development/OpenRP/server.cfg",
+		"/D/Development/OpenRP/pawno/include/easyDialog.inc",
+		"/D/Sublime Text 3/pawn.sublime-build",
+		"/D/Development/OpenRP/gamemodes/Pawn.sublime-build",
+		"/D/Development/OpenRP/pawn.sublime-build"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								358,
+								358
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1369,
+								1185
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 42.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "templates/assets/css/home.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "templates/assets/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Pawn.sublime-build",
+	"project": "luckly.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
